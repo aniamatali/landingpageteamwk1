@@ -13,7 +13,6 @@
 #teaminfo {
   background-color:#D0D6B5;
   height:600px;
-  font-family: 'Roboto', sans-serif;
 }
 
 #projectinfo {
@@ -24,6 +23,11 @@
 #bottominfo {
   background-color:#C05746;
   height:300px;
+}
+
+#bottominfo img {
+  margin-left:50px;
+  margin-top:50px;
 }
 
 
@@ -43,9 +47,9 @@ h1 {
 h3 {
   margin-top:-1px;
   margin-left:5px;
-  color:black;
+  color:#413C58;
   font-size:35px;
-  padding-top:30px;
+  padding-top:50px;
   padding-left:10px;
 }
 
@@ -60,6 +64,19 @@ h3 {
 .col-md-9 {
   margin: 0,0,0,0;
 }
+
+.col-md-9 h3 {
+  color:white;
+}
+
+.col-md-9 li {
+  margin-left:50px;
+  color:white;
+  font-size:20px;
+  list-style-type:disc;
+}
+
+
 
 li {
   margin-top:0px;
