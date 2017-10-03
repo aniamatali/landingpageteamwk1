@@ -1,0 +1,74 @@
+.row {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#topper {
+  background-color:#75B9BE;
+  height: 145px;
+  padding-left:50px;
+  color:white;
+}
+
+#teaminfo {
+  background-color:#D0D6B5;
+  height:600px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#projectinfo {
+  background-color:#413C58;
+  height:600px;
+}
+
+#bottominfo {
+  background-color:#C05746;
+  height:300px;
+}
+
+
+h1 {
+  font-size:130px;
+    font-family: 'Anton', sans-serif;
+    border-left: 35px solid #EE7674;
+    text-shadow:5px 6px black;
+}
+
+/*h2 {
+  font-size:80px;
+
+  font-family: 'Roboto', sans-serif;
+}*/
+
+h3 {
+  margin-top:-1px;
+  margin-left:5px;
+  color:black;
+  font-size:35px;
+  padding-top:30px;
+  padding-left:10px;
+}
+
+
+.col-md-3 {
+  margin-right:0px;
+  margin-top:0px;
+  padding-left:30px;
+  height:300px;
+}
+
+.col-md-9 {
+  margin: 0,0,0,0;
+}
+
+li {
+  margin-top:0px;
+  font-size:25px;
+  padding-top:15px;
+  padding-left:15px;
+  list-style-type:none;
+}
+
+li:hover {
+  text-decoration:underline;
+}
